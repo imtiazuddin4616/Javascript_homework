@@ -1,14 +1,26 @@
+console.log("for loop");
 for(let i=1;i<=10;i++){
   console.log(i);
 }
-console.log("--------");
+console.log("------");
 
 for(let i=10;i>=1;i--){
   console.log(i);
 }
-console.log("-----");
+
+console.log("while loop");
+
 let i=1;
 while(i<=10){
   console.log(i);
   i++;
 }
+
+console.log("do while loop");
+
+let x=1
+do{
+console.log(x);
+x++;
+
+}while(x<=10);
