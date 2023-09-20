@@ -33,4 +33,9 @@ for(let x in cars){
   console.log(x);
   console.log(cars[x]);
 }
+ console.log("for of loop");
 
+ let num=[1,2,3,4,5];
+ for(let i of num){
+  console.log(i);
+ }
