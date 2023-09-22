@@ -1,3 +1,7 @@
+
+let name1="imtiaz uddin raju raju";
+console.log(name1.indexOf("raju",14)); //starting from the 14th index from the starting
+console.log(name1.lastIndexOf("raju",17)); //starting from the 17th index from the last
 let name="imtiaz uddin";
 let names="imtiaz uddin boss imtiaz"
 console.log(name.indexOf("imtiaz")); //index of a string
