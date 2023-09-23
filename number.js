@@ -1,0 +1,18 @@
+let x=0.2;
+let y=0.1;
+console.log((10*x)+(10*y)/10);
+let a="imtiaz";
+let b=2;
+let c=2;
+console.log(a+(b+c));
+let x1="10";
+let y1="2";
+console.log(x1/y1);
+let x2=10;
+let y2="2";
+console.log(x2*y2);
+let x3="10";
+let y3=2;
+console.log(x3*y3);
+let x4=5;
+console.log(isNaN(x4));
